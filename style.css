@@ -94,25 +94,12 @@ body{
     
 }
 .profilepic{
-
+    background: url(assets/monkey-arr-01.svg);
     width: 3rem;
-    
     margin: 0 10px 0 10px;
 }
 .profilepic:hover{
     cursor: pointer;
-}
-.st5:hover{
-    transition: stroke-width 0.3s ease;
-    cursor: pointer;
-   stroke-width: 70;
-   rotate: 20deg;
-}
-.st0:hover{
-    stroke: white; 
-    transition: stroke-width 0.3s ease;
-    cursor: pointer;
-    stroke-width: 42;
 }
 
 .notifiBell{
